@@ -1,0 +1,12 @@
+/* style untuk seluruh halaman */
+body {
+  background-color: darksalmon;
+}
+/* style untuk isi content */
+main {
+  text-align: justify;
+  background-color: antiquewhite;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 450;
+}
